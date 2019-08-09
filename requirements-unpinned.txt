@@ -1,0 +1,11 @@
+altair
+country-converter
+jupyter
+jupyterlab
+pandas
+requests
+reverse-geocode
+tinydb
+tqdm
+vega
+vega-datasets
