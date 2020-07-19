@@ -1,8 +1,8 @@
 country_code,country,number_created,number_collected
 AT,Austria,29,12
-AU,Australia,13673,13232
+AU,Australia,13797,13335
 BD,Bangladesh,1,0
-BE,Belgium,10,0
+BE,Belgium,11,0
 BR,Brazil,1,50
 CA,Canada,30,34
 CC,Cocos (Keeling) Islands,1,0
@@ -17,7 +17,7 @@ EG,Egypt,13,0
 ES,Spain,1,28
 FJ,Fiji,16,30
 FR,France,81,6
-GB,United Kingdom,1436,112
+GB,United Kingdom,1439,112
 GR,Greece,8,0
 HK,Hong Kong,17,0
 HR,Croatia,1,0
@@ -40,10 +40,10 @@ MY,Malaysia,2,2
 NE,Niger,1,0
 NL,Netherlands,6,0
 NO,Norway,2,2
-NZ,New Zealand,21,36
+NZ,New Zealand,22,36
 PE,Peru,1,0
 PF,French Polynesia,1,0
-PG,Papua New Guinea,156,61
+PG,Papua New Guinea,154,61
 PH,Philippines,1,4
 PK,Pakistan,6,0
 PL,Poland,6,0
@@ -52,16 +52,16 @@ RU,Russian Federation,5,6
 SB,Solomon Islands,46,0
 SE,Sweden,5,1
 SG,Singapore,2,1
-SH,Saint Helena,6,1
+SH,Saint Helena,7,1
 SY,Syrian Arab Republic,6,0
 TH,Thailand,3,0
-TO,Tonga,4,2
+TO,Tonga,4,3
 TR,Turkey,5,3
 TW,Taiwan,1,0
 UA,Ukraine,2,1
-US,United States,265,145
+US,United States,266,145
 VN,Vietnam,2,0
-VU,Vanuatu,1,0
+VU,Vanuatu,1,2
 WS,Samoa,7,1
 ZA,South Africa,1,19
 AR,Argentina,0,1
